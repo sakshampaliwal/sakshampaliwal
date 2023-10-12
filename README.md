@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saksham Paliwal</h1>
 
 # 💫 About Me:
-I'm Pre-final year CS student from India 🎓.
+I'm Final year CS student from India 🎓.
 DevOps & Cloud Enthusiast☁️.
 
 Passionate about Open Source & empowering others.
 
-👀Actively seeking DevOps Job opportunities!
+👀Actively seeking DevOps or Cloud Job opportunities!
 
 ## 🌐Connect with Me:
 <p align="left">
